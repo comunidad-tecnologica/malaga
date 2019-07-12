@@ -16,3 +16,4 @@ Información sobre comunidades, grupos de usuarios, conferencias, y otros enlace
 
 - Opensouthcode -- https://www.opensouthcode.org
 - J on the Beach -- https://jonthebeach.com/
+- Congreso Global de Blockchain -- https://www.blockchainconvergence.com/
