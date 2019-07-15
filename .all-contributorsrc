@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "deors",
+      "name": "Jorge Hidalgo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4376867?v=4",
+      "profile": "http://deors.wordpress.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "malaga",
+  "projectOwner": "comunidad-tecnologica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
